@@ -1,0 +1,13 @@
+{
+  "name": "syounin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.html",
+  "window": {
+    "transparent": true
+  },
+  "toolbar": false,
+  "transparent": true,
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT"
+}

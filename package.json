@@ -1,0 +1,10 @@
+{
+  "name": "syounin",
+  "version": "0.0.1",
+  "description": "",
+  "author": "airtoxin <airtoxin@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nw-builder": "^2.0.2"
+  }
+}

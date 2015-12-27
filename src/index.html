@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>test</title>
+  <style>
+    * {
+        margin: 0
+    }
+    html {
+        width: 100%;
+        height: 100%;
+    }
+    body {
+        background-color: rgba(0,0,0,0);
+        background: url("approval-icon.png") no-repeat;
+        background-size: contain;
+    }
+  </style>
+</head>
+
+<body></body>
+
+<script type="text/javascript">
+var gui = require('nw.gui');
+var win = gui.Window.get();
+win.setTransparent(!win.isTransparent);
+</script>
+
+</html>
